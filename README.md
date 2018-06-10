@@ -4,6 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Summary 1 Introduction
 
+https://angular.io/tutorial
+
 ## Summary 2 The Application Shell
 
 You created the initial application structure using the Angular CLI.
